@@ -13,6 +13,9 @@ public Inky(String pinky,String blinky, String rinky){
    System.out.println(blinky + " " + pinky);
    System.out.println(pinky + " " + rinky);
    System.out.println(blinky + " " + pinky + " " + rinky);
+   // add change
+   System.out.println("This is for check");
+   
 }
 
 //Main method
